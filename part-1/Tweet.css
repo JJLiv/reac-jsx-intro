@@ -1,0 +1,18 @@
+.tweet {
+    border: 1.5px, solid darkblue;
+    border-radius: 5px;
+    margin: 20px, 20%;
+    padding: 20px;
+   
+}
+
+.username {
+    color: dodgerblue;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.date,
+.name {
+    color:mediumvioletred
+}
